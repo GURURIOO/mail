@@ -1,4 +1,3 @@
-package barath;
 import java.util.*;
 public class firLast {
 	static Scanner s=new Scanner(System.in);
